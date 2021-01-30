@@ -22,7 +22,6 @@ Details can be found in the LICENSE file of the data set.
 The link to the data set will be published soon.
 
 
-
 ## Group Members / Contributors
 
 The group consists of the following members:
@@ -36,6 +35,13 @@ The group consists of the following members:
 * Simonas Budėjis
 
 Also, we would like to acknowledge our supervisor [Claudio Persello](https://research.utwente.nl/en/persons/claudio-persello).
+
+
+## Contact/Feedback
+
+We will be happy to answer feedback and questions.
+Also bug reports are appreciated.
+Either contact [Max Resing](https://www.maxresing.de/contact.html) or [open an issue](https://github.com/resingm/field-boundary-delineation/issues/new).
 
 
 # License
