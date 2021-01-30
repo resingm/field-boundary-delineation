@@ -8,7 +8,7 @@ precisely predict the boundaries of agricultural fields.
 
 ## FCNs
 
-Apart from the report, the repository also contains the differently trained
+Apart from the paper, the repository also contains the differently trained
 networks.
 Each network was trained with 600 epochs each.
 The digit, behind the network's name defines the number of layers that were used
@@ -42,8 +42,7 @@ Also, we would like to acknowledge our supervisor [Claudio Persello](https://res
 
 ## Contact/Feedback
 
-We will be happy to answer feedback and questions.
-Also bug reports are appreciated.
+We will be happy to answer feedback, questions and bug reports.
 Either contact [Max Resing](https://www.maxresing.de/contact.html) or [open an issue](https://github.com/resingm/field-boundary-delineation/issues/new).
 
 
