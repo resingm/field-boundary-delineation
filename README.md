@@ -6,6 +6,35 @@ The aim of the assignment was to train a fully convolutional neural network to
 precisely predict the boundaries of agricultural fields.
 
 
+The implementation is split into three different Jupyter notebooks. The code is
+designed to run on [Google Colab](https://colab.research.google.com/).
+
+It is split into three different notebooks. All code files are well documented.
+
+
+**network-training.ipynb**
+
+This notebook is desinged to train a network with a given configuration.
+
+
+**network-testing.ipynb**
+
+Includes the accuracy assessment as well as sample outputs of the training data
+set of a trained network.
+
+
+**network-prediction.ipynb**
+
+Used to predict the field boundaries with the help of a pretrained network.
+The field boundaries are stored as TIF files. The predictions of the three FCNs
+which are considered in the paper are all included in the related data set.
+
+```
+TODO: Add link to data set
+```
+
+
+
 ## FCNs
 
 Apart from the paper, the repository also contains the differently trained
