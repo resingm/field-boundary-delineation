@@ -29,9 +29,7 @@ Used to predict the field boundaries with the help of a pretrained network.
 The field boundaries are stored as TIF files. The predictions of the three FCNs
 which are considered in the paper are all included in the related data set.
 
-```
-TODO: Add link to data set
-```
+The data set is available online: [doi.org/10.17026/dans-za6-m8t7](https://doi.org/10.17026/dans-za6-m8t7)
 
 
 
